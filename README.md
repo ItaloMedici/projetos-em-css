@@ -1,13 +1,16 @@
 # Mini projetos em css
  
- Pequenos projetos que desenvolvidos em css para estudos de web design.
+ Pequenos projetos desenvolvidos em CSS para estudos em Web Design.
 
 ## Site em login
-* Exemplo de um login em um site.
->Com entrada do usaurio, senha e um botão de entrar, tudo dentro de um quadrado centralizado.
+* Exemplo de login em um site.
+>Com entrada de usuário, senha e um botão de entrar, tudo dentro de um quadrado centralizado.
 
+![](Site-Login/Site-login.gif)
 
 
 ## Barra de Pesquisa
 * Exemplo de uma barra de pesquisa.
->Barra fica esondida em um icone de lupa, sempre que passar o mause por cima abrirá a barra para digiar.
+>Barra fica esondida em um icone de lupa, sempre que passar o mouse por cima abrirá a barra para digiar.
+
+![](Barra-de-pesquisa/barra-de-pesquisa.gif)
