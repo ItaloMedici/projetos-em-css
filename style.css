@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box-1{
+    background-color: #ac1414;
+    position: absolute;
+    right: 50%;
+}
+
+.box-2{
+    position: absolute;
+    left: 50%;
+}
