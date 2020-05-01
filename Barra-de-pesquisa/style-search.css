@@ -19,7 +19,7 @@ body{
 
 .search-box:hover > .search-txt{
     width: 240px;
-    padding: 0 15px;
+    padding: 0 8px;
 }
 
 .search-box:hover > .search-btn{
